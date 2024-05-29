@@ -1,2 +1,1 @@
-# us-state-quiz
-Quiz of USA state names
+# USA State Name Map Quiz
